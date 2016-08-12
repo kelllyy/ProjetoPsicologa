@@ -1,0 +1,38 @@
+projeto interdisciplinar
+
+Nome: Kelly Oliveira da Silva
+
+Qual é o poblema?
+O poblema seria no caso do cadastro para se consultar no psicologo(a), a uma demora muito grande sem o uso de um aplicativo.
+
+É porque o poblema é relevante?
+
+Com o aplicativo irá facilitar, com o cadastro do paciente e anamnese os pacientes não enfrentaria uma fila de espera é seriam atendidos
+ imediatamente.
+
+Quais são os concorrentes?
+
+ Outros sistemas de aplicativos.
+
+Qual é o público alvo?
+
+O psicologo e a secretária.
+
+Existe mercado? Por quê?
+
+Sim.Com novos aplicativos surgindo, o mercado fica cada vez mais grande o qual surgiu a ídeia de criar este aplicativo para psicologo(a).
+
+É Viavel?
+Sim.Com o sistema ficaria mais fácil é evitaria o cadastro manualmente.
+
+Estórias de Usúario:
+
+1- Como psicologo(a) gostaria de obter um cadastro da secretária ou recepcionista onde ela tivesse o acesso as informações do paciente.
+
+2- sendo um psicologo(a) gostaria de testar a anamnese para meus pacientes para facilitar as  minhas consultas.
+
+3- Como secretária  gostaria de ser cadastrada(o) no sistema para conter minhas informações e a do sistema.
+
+4- Como psicologo(a) gostaria de ser cadastrado no sistema para melhor atendimento com meus pacientes.
+
+5- Como psicologo(a) gostaria de ter uma agenda onde posso aconpanhar os horários e histórico de cada paciente.
